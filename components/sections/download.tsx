@@ -31,7 +31,7 @@ export function DownloadSection() {
       id="download" 
       className="py-24 md:py-32 bg-foreground text-background overflow-hidden"
     >
-      <div className="container mx-auto px-4">
+      <div className="container mx-auto px-6 md:px-20">
         <div className="grid lg:grid-cols-2 gap-12 lg:gap-16 items-center">
           {/* Left Content */}
           <div 
